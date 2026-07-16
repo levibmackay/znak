@@ -36,7 +36,7 @@ The name comes from *znak*, the word for "sign" in Serbian, Croatian, and Bosnia
 Requires Xcode and iOS 17+ (adjust once you confirm your target).
 
 ```bash
-git clone https://github.com/<your-username>/znak.git
+git clone https://github.com/levibmackay/znak.git
 cd znak
 open Znak.xcodeproj
 ```
