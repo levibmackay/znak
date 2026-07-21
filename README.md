@@ -44,3 +44,5 @@ open Znak.xcodeproj
 ## License
 
 TBD
+
+_Last reviewed: 2026-07-20 19:33 MDT_
